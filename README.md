@@ -1,2 +1,4 @@
 # Frontend_Dev
-Learning track for a Frontend developer
+📖    Learning about Frontend development
+✔✔    HTML, CSS, JavaScript
+🗓     Six Months Bootcamp
